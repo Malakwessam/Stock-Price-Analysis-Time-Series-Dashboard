@@ -44,6 +44,7 @@ This helped uncover hidden patterns that are not obvious from raw data.
 
 ## Dashboard Development
 To make the analysis more interactive and user-friendly, I created a dashboard that summarizes the key findings.
+![Dashboard](Stock Price Dashboard.png)
 The dashboard includes:
 
 Stock price trends over time
@@ -63,6 +64,13 @@ From the analysis, several important observations were made:
  A small number of companies dominate market share
  Trading volume often correlates with price movements
 
+## Tools & Technologies
+
+Python
+Pandas
+Matplotlib
+Statsmodels
+Power BI
 
 ## Conclusion
 This project demonstrates how raw financial data can be transformed into meaningful insights using data analysis and time series techniques.
