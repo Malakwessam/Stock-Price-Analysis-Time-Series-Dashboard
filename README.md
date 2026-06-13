@@ -44,7 +44,7 @@ This helped uncover hidden patterns that are not obvious from raw data.
 
 ## Dashboard Development
 To make the analysis more interactive and user-friendly, I created a dashboard that summarizes the key findings.
-![Dashboard](Stock Price Dashboard.png)
+![Dashboard](Stock _Price_Dashboard.png)
 The dashboard includes:
 
 Stock price trends over time
